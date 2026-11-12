@@ -8,6 +8,7 @@ Cilantro
 Jalapeno 
 Salt
 
+Sugar
 
 
 ## Instructions
