@@ -2,7 +2,7 @@
 
 ## Ingredients
 Avocado 
-Lime juice 
+Lime  
 Onion 
 Cilantro
 Jalapeno 
